@@ -1,7 +1,21 @@
 # Fabla
+Fabla is a comprehensive mobile application designed to facilitate audio diary recording for research. The app provides a secure and user-friendly platform for recording, storing, and managing audio diaries, with features including:
 
-Fabla is a mobile application that allows users to record audio diaries and store them locally and in a cloud database. 
+- Local and cloud-based storage options
+- Secure authentication and data protection
+- Intuitive user interface for recording and managing audio entries
+- Offline functionality with automatic sync capabilities
+- Research-grade data collection and management
+
 The application is built using Flutter and Dart, and uses Firebase for cloud storage.
+
+This project is co-developed with Dr. Deanna Kaplan at the Emory School of Medicine.
+
+## Acknowledgments
+
+Supported by the National Center for Advancing Translational Sciences of the National Institutes of Health under Award
+Number UL1TR002378. The content is solely the responsibility of the authors and does not necessarily represent the
+official views of the National Institutes of Health.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
